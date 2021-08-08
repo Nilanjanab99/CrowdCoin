@@ -73,13 +73,3 @@ This part involves the creation of a web application using React and Next.js. Wh
 <img height="300" src="./__sample/4.png">
 <h3>Fund request page</h3>
 <img height="300" src="./__sample/5.png">
-
-## Contributors
-<table><tr><td align="center">
-        <a href="https://github.com/akcgjc007">
-            <img src="https://avatars2.githubusercontent.com/u/56300182" width="100;" alt="anupam"/>
-            <br />
-            <sub><b>Anupam Kumar</b></sub>
-        </a>
-    </td></tr>
-</table>
